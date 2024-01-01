@@ -916,6 +916,7 @@ article p{
 
     .footer-col{
         width: 100%;
+        text-align: center;
     }
     .footer-bac-color{
         margin: 0px 0px;
@@ -933,5 +934,15 @@ article p{
         width: 100%;
         text-align: center;
         float: none;
+    }
+
+    h3 span{
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+
+    .intro-ul li{
+        font-size: 15px;  
     }
 }
